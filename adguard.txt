@@ -1,0 +1,21 @@
+! Title: OnVUE allowlist by ghilie
+! Source: https://raw.githubusercontent.com/ghiglie/onvue-allowlist/master/adguard.txt
+! Home: https://github.com/ghiglie/onvue-allowlist
+! Contribute: https://github.com/ghiglie/onvue-allowlist/issues
+! License: MIT (https://mit-license.org/)
+@@||pearson.com^$important
+@@||pearsonvue.com^$important
+@@||proctorcam.com^$important
+@@||programworkshop.com^$important
+@@||programworkshop2.com^$important
+@@||starttest.com^$document
+@@||starttest2.com^$important
+@@||startpractice.com^$important
+@@||gettesting.com^$document
+@@||verifyreadiness.com^$important
+@@||twilio.com^$important
+@@||pvue2.com^$important
+@@||ably.io^$important
+@@||ably-realtime.com^$important
+@@||wowza.com^$important
+@@||onvue.com^$important
