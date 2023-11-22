@@ -18,5 +18,5 @@
 @@||ably.io^$important
 @@||ably-realtime.com^$important
 @@||wowza.com^$document
-@@||*.*.cloud.wowza.com^document
+@@||*.*.cloud.wowza.com^$important
 @@||onvue.com^$important
