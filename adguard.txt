@@ -1,4 +1,4 @@
-! Title: OnVUE allowlist by ghilie
+! Title: OnVUE allowlist by ghiglie
 ! Source: https://raw.githubusercontent.com/ghiglie/onvue-allowlist/master/adguard.txt
 ! Home: https://github.com/ghiglie/onvue-allowlist
 ! Contribute: https://github.com/ghiglie/onvue-allowlist/issues
@@ -17,5 +17,6 @@
 @@||pvue2.com^$important
 @@||ably.io^$important
 @@||ably-realtime.com^$important
-@@||wowza.com^$important
+@@||wowza.com^$document
+@@||*.*.cloud.wowza.com^document
 @@||onvue.com^$important
